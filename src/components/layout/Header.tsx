@@ -11,7 +11,8 @@ import { ChevronDown } from "lucide-react";
 const paths = {
   home: "/",
   services: "/services",
-  about: "/about",
+  story: "/story",
+  blog: "/blogs",
   contact: "/contact",
 } as const;
 
@@ -101,10 +102,16 @@ export function Header() {
             </AnimatePresence>
           </div>
           <Link
-            href={paths.about}
+            href={paths.story}
             className="rounded-full px-3 py-2 text-sm font-medium text-[#000033]/75 transition-colors hover:bg-[#00E5FF]/10 hover:text-[#000033]"
           >
-            {t("about")}
+            {t("ourStory")}
+          </Link>
+          <Link
+            href={paths.blog}
+            className="rounded-full px-3 py-2 text-sm font-medium text-[#000033]/75 transition-colors hover:bg-[#00E5FF]/10 hover:text-[#000033]"
+          >
+            {t("blog")}
           </Link>
           <Link
             href={paths.contact}
@@ -213,11 +220,18 @@ export function Header() {
                 </AnimatePresence>
               </div>
               <Link
-                href={paths.about}
+                href={paths.story}
                 onClick={() => setOpen(false)}
                 className="rounded-xl px-3 py-3 text-base font-medium text-[#000033]"
               >
-                {t("about")}
+                {t("ourStory")}
+              </Link>
+              <Link
+                href={paths.blog}
+                onClick={() => setOpen(false)}
+                className="rounded-xl px-3 py-3 text-base font-medium text-[#000033]"
+              >
+                {t("blog")}
               </Link>
               <Link
                 href={paths.contact}

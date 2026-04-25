@@ -9,9 +9,15 @@
     "homeCleaning": "Home Cleaning",
     "movingCleaning": "Moving Cleaning",
     "officeCleaning": "Office Cleaning",
+    "ourStory": "Our Story",
+    "blog": "Blog",
     "about": "About",
     "contact": "Contact",
     "quote": "Request a quote"
+  },
+  "OfferBar": {
+    "offer": "Launch Offer: 3 hours home cleaning + windows only 79EUR!",
+    "ctaLabel": "Call:"
   },
   "Hero": {
     "eyebrow": "Cleaning services in Finland",
@@ -111,6 +117,24 @@
     "lead": "Cleava makes it easier to keep homes and workplaces spotless.",
     "p1": "We help households and businesses stay clean without the hassle. We listen to your needs and build a service that fits.",
     "p2": "Clear communication, agreed schedules, and professional execution — that is the Cleava way."
+  },
+  "StoryPage": {
+    "title": "Our Story",
+    "lead": "From a small local idea to a trusted cleaning partner in Finland.",
+    "p1": "Cleava started with one goal: make cleaning services simple, dependable, and premium in quality. We noticed many clients wanted professional results without complicated booking and unclear communication.",
+    "p2": "Today we serve homes and businesses with the same mindset — respectful teams, consistent standards, and transparent service from first contact to final check.",
+    "valuesTitle": "What drives us",
+    "values": {
+      "quality": "Consistent quality in every visit",
+      "trust": "Reliable and respectful service teams",
+      "speed": "Fast response and flexible scheduling"
+    }
+  },
+  "BlogsPage": {
+    "title": "Blog",
+    "subtitle": "Cleaning tips, practical guides, and updates from Cleava.",
+    "readMore": "Read article",
+    "backToBlog": "Back to blog"
   },
   "ServicesPage": {
     "title": "Services",

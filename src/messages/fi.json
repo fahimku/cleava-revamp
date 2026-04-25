@@ -9,9 +9,15 @@
     "homeCleaning": "Kotisiivous",
     "movingCleaning": "Muuttosiivous",
     "officeCleaning": "Toimistosiivous",
+    "ourStory": "Tarinamme",
+    "blog": "Blogi",
     "about": "Meistä",
     "contact": "Yhteystiedot",
     "quote": "Pyydä tarjous"
+  },
+  "OfferBar": {
+    "offer": "Avajaistarjous: 3 tuntia kotisiivousta + ikkunat vain 79EUR!",
+    "ctaLabel": "Soita:"
   },
   "Hero": {
     "eyebrow": "Siivouspalvelut Suomessa",
@@ -111,6 +117,24 @@
     "lead": "Cleava tarjoaa siivouspalveluja, jotka tekevät arjesta kevyempää.",
     "p1": "Autamme koteja ja yrityksiä pysymään siisteinä ilman stressiä. Kuuntelemme toiveitasi ja rakennamme palvelun, joka sopii juuri sinulle.",
     "p2": "Läpinäkyvä viestintä, sovitut aikataulut ja ammattimainen ote — siinä Cleavan tapa."
+  },
+  "StoryPage": {
+    "title": "Tarinamme",
+    "lead": "Pienestä paikallisesta ideasta luotetuksi siivouskumppaniksi Suomessa.",
+    "p1": "Cleava syntyi ajatuksesta, että siivouspalvelun pitää olla helppo, luotettava ja laadukas. Monet asiakkaat toivoivat ammattimaista lopputulosta ilman monimutkaista varausta ja epäselvää viestintää.",
+    "p2": "Tänään palvelemme koteja ja yrityksiä samalla periaatteella — arvostava tiimi, tasainen laatu ja selkeä palvelu ensimmäisestä yhteydenotosta loppuvarmistukseen.",
+    "valuesTitle": "Mikä ohjaa meitä",
+    "values": {
+      "quality": "Tasainen laatu jokaisella käynnillä",
+      "trust": "Luotettava ja kunnioittava palvelutiimi",
+      "speed": "Nopea vastaus ja joustava aikataulu"
+    }
+  },
+  "BlogsPage": {
+    "title": "Blogi",
+    "subtitle": "Siivousvinkit, käytännön oppaat ja Cleavan ajankohtaiset kuulumiset.",
+    "readMore": "Lue artikkeli",
+    "backToBlog": "Takaisin blogiin"
   },
   "ServicesPage": {
     "title": "Palvelut",

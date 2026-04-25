@@ -4,6 +4,7 @@ import { getMessages, getTranslations, setRequestLocale } from "next-intl/server
 import { notFound } from "next/navigation";
 import { Plus_Jakarta_Sans, Playfair_Display } from "next/font/google";
 import { routing } from "@/i18n/routing";
+import { TopOfferBar } from "@/components/layout/TopOfferBar";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import "../globals.css";
@@ -65,6 +66,7 @@ export default async function LocaleLayout({
     >
       <body className="flex min-h-full flex-col bg-white font-sans text-[#000033] antialiased">
         <NextIntlClientProvider messages={messages}>
+          <TopOfferBar />
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
