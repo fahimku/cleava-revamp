@@ -1,0 +1,177 @@
+{
+  "Meta": {
+    "title": "Cleava | Cleaning Services in Finland",
+    "description": "Professional home and office cleaning in Finland. Book easily — we confirm availability quickly by SMS or email."
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "homeCleaning": "Home Cleaning",
+    "movingCleaning": "Moving Cleaning",
+    "officeCleaning": "Office Cleaning",
+    "about": "About",
+    "contact": "Contact",
+    "quote": "Request a quote"
+  },
+  "Hero": {
+    "eyebrow": "Cleaning services in Finland",
+    "title": "Spaces that feel",
+    "titleAccent": "fresh again",
+    "subtitle": "Residential and commercial cleaning with care. Fast responses, flexible scheduling, and spotless results.",
+    "primaryCta": "Get a quote",
+    "secondaryCta": "Explore services"
+  },
+  "Stats": {
+    "happy": "Happy clients",
+    "bookings": "Cleans completed",
+    "response": "Typical reply time"
+  },
+  "Services": {
+    "title": "What we do",
+    "subtitle": "Tailored cleaning — one-off or on a recurring schedule.",
+    "residential": {
+      "title": "Home cleaning",
+      "desc": "Apartments and houses. Kitchens, bathrooms, and thorough everyday cleaning."
+    },
+    "commercial": {
+      "title": "Office & business",
+      "desc": "Offices, retail, and shared spaces that stay presentable for teams and visitors."
+    },
+    "deep": {
+      "title": "Deep & special cleans",
+      "desc": "Move-in/out, post-construction, seasonal work, and demanding jobs."
+    },
+    "recurring": {
+      "title": "Scheduled service",
+      "desc": "Weekly or monthly rhythm so your space stays consistently clean."
+    },
+    "cta": "All services"
+  },
+  "Why": {
+    "title": "Why Cleava?",
+    "subtitle": "A dependable partner that respects your time and your space.",
+    "items": {
+      "verified": {
+        "title": "Professionals",
+        "desc": "Experienced cleaners and clear, repeatable processes."
+      },
+      "flex": {
+        "title": "Flexible timing",
+        "desc": "We schedule around your day, not the other way around."
+      },
+      "eco": {
+        "title": "Quality tools",
+        "desc": "Effective methods and meticulous attention to detail."
+      }
+    }
+  },
+  "Reviews": {
+    "title": "Google reviews",
+    "subtitle": "See what clients say on Google.",
+    "viewAll": "View all reviews on Google",
+    "loading": "Loading reviews…",
+    "manualNote": "Review text is stored in this site (see src/data/cleavaReviews.ts). Google does not publish a public API for that search page without a key — paste reviews there to list them all here.",
+    "eyebrow": "Real experiences and honest feedback",
+    "displayTitle": "What our clients say",
+    "featuredQuote": "The Cleava team went above and beyond! Professional, friendly, and detailed service – the results were simply outstanding.",
+    "contactCta": "Contact us",
+    "summaryExcellent": "EXCELLENT",
+    "basedOn": "Based on {count} reviews",
+    "readMore": "Read more",
+    "readLess": "Read less",
+    "verified": "Verified Google review",
+    "summaryTitle": "Google review summary",
+    "writeReview": "Write a review",
+    "histogramCaption": "Star mix from the reviews listed below",
+    "listingMismatch": "Google shows {google} reviews in total. Add more rows in cleavaReviews.ts to display them all here.",
+    "sortLabel": "Sort by",
+    "sortRelevant": "Most relevant",
+    "sortNewest": "Newest",
+    "sortHighest": "Highest rating",
+    "sortLowest": "Lowest rating",
+    "tagAll": "All",
+    "tagOntime": "on time",
+    "tagPunctual": "punctuality",
+    "tagCleaning": "cleaning",
+    "tagResults": "cleaning results",
+    "tagRegular": "regular cleaning"
+  },
+  "Cta": {
+    "title": "Ready for a cleaner space?",
+    "subtitle": "Send a quote request — we confirm availability by message or email.",
+    "button": "Start your request"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Cleaning services in Finland",
+    "privacy": "Privacy"
+  },
+  "About": {
+    "title": "About us",
+    "lead": "Cleava makes it easier to keep homes and workplaces spotless.",
+    "p1": "We help households and businesses stay clean without the hassle. We listen to your needs and build a service that fits.",
+    "p2": "Clear communication, agreed schedules, and professional execution — that is the Cleava way."
+  },
+  "ServicesPage": {
+    "title": "Services",
+    "intro": "Choose the cleaning you need — we can combine services on request.",
+    "included": "Includes labour, equipment, and quality checks as agreed.",
+    "details": "Details"
+  },
+  "ServiceDetails": {
+    "backToServices": "Back to services",
+    "includesTitle": "What's included",
+    "ctaTitle": "Need this service?",
+    "ctaBody": "Tell us your preferred date and property details. We'll confirm quickly.",
+    "ctaButton": "Request a quote",
+    "home-cleaning": {
+      "title": "Home Cleaning",
+      "subtitle": "Comfortable, spotless home cleaning for apartments and houses.",
+      "description": "Ideal for busy households. We focus on visible cleanliness and details in kitchens, bathrooms and living areas.",
+      "includes": [
+        "Kitchen and bathroom surface cleaning",
+        "Dust removal and vacuuming",
+        "Floor mopping and finishing touches"
+      ]
+    },
+    "moving-cleaning": {
+      "title": "Moving Cleaning",
+      "subtitle": "Move-out and move-in cleaning prepared for handover standards.",
+      "description": "Before key handover, we deep clean high-use areas so the property is fresh and ready for the next occupant.",
+      "includes": [
+        "Deep kitchen and appliance exterior cleaning",
+        "Bathroom descaling and sanitizing",
+        "Comprehensive floor and surface detailing"
+      ]
+    },
+    "office-cleaning": {
+      "title": "Office Cleaning",
+      "subtitle": "Professional office cleaning to keep workspaces presentable daily.",
+      "description": "We help companies maintain a clean environment for teams and visitors with reliable scheduled service.",
+      "includes": [
+        "Desks, shared areas and meeting rooms",
+        "Kitchenette and restroom cleaning",
+        "Trash handling and floor care"
+      ]
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "intro": "Tell us about your space and preferences — we will get back to you shortly.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "serviceType": "Service type",
+    "residential": "Home cleaning",
+    "commercial": "Business cleaning",
+    "submit": "Send message",
+    "success": "Thank you! Your message has been received.",
+    "placeholders": {
+      "name": "First Last",
+      "email": "you@example.com",
+      "phone": "+358 …",
+      "message": "Address, size (m²), preferred time…"
+    }
+  }
+}

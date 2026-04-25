@@ -1,0 +1,177 @@
+{
+  "Meta": {
+    "title": "Cleava | Siivouspalvelut Suomessa",
+    "description": "Ammattimainen koti- ja yrityssiivous. Tilaa siivous helposti — vastaamme nopeasti ja vahvistamme saatavuuden."
+  },
+  "Nav": {
+    "home": "Etusivu",
+    "services": "Palvelut",
+    "homeCleaning": "Kotisiivous",
+    "movingCleaning": "Muuttosiivous",
+    "officeCleaning": "Toimistosiivous",
+    "about": "Meistä",
+    "contact": "Yhteystiedot",
+    "quote": "Pyydä tarjous"
+  },
+  "Hero": {
+    "eyebrow": "Siivouspalvelut Suomessa",
+    "title": "Puhdasta tilaa,",
+    "titleAccent": "jonka huomaat",
+    "subtitle": "Koti- ja yrityssiivous ammattitaidolla. Nopea yhteydenotto, joustavat ajat ja huolellinen työnjälki.",
+    "primaryCta": "Tee tarjouspyyntö",
+    "secondaryCta": "Tutustu palveluihin"
+  },
+  "Stats": {
+    "happy": "Tyytyväisiä asiakkaita",
+    "bookings": "Siivouskeikkoja",
+    "response": "Vastausaika"
+  },
+  "Services": {
+    "title": "Palvelumme",
+    "subtitle": "Räätälöimme siivouksen tarpeidesi mukaan — kertaluonteisesti tai säännöllisesti.",
+    "residential": {
+      "title": "Kotisiivous",
+      "desc": "Asunnot, rivitalot ja omakotitalot. Keittiöt, kylpyhuoneet ja perussiivous."
+    },
+    "commercial": {
+      "title": "Yrityssiivous",
+      "desc": "Toimistot, liiketilat ja yhteiset tilat. Siisti ympäristö työntekijöille ja asiakkaille."
+    },
+    "deep": {
+      "title": "Syvä- ja erikoissiivous",
+      "desc": "Muutto-, rakennus- ja kausisiivoukset sekä vaativammat kohteet."
+    },
+    "recurring": {
+      "title": "Sopimussiivous",
+      "desc": "Viikko- tai kuukausirytmi, joka pitää tilat jatkuvasti edustuskunnossa."
+    },
+    "cta": "Kaikki palvelut"
+  },
+  "Why": {
+    "title": "Miksi Cleava?",
+    "subtitle": "Luotettava kumppani, joka kunnioittaa aikaasi ja kotiasi.",
+    "items": {
+      "verified": {
+        "title": "Ammattilaiset",
+        "desc": "Kokeneet siivoajat ja selkeät prosessit."
+      },
+      "flex": {
+        "title": "Joustavat ajat",
+        "desc": "Sovitaan aikataulu, joka sopii arkeesi."
+      },
+      "eco": {
+        "title": "Laadukkaat välineet",
+        "desc": "Tehokkaat menetelmät ja huolellinen työnjälki."
+      }
+    }
+  },
+  "Reviews": {
+    "title": "Asiakaspalaute",
+    "subtitle": "Lue, mitä asiakkaamme sanovat Googlesta.",
+    "viewAll": "Katso kaikki arvostelut Googlesta",
+    "loading": "Ladataan arvosteluja…",
+    "manualNote": "Arvostelut tallennetaan tälle sivustolle (tiedosto src/data/cleavaReviews.ts). Google ei tarjoa avainta varten ilmaista JSON-rajapintaa tuolle hakusivulle — liitä arvostelut tiedostoon näyttääksesi ne kaikki täällä.",
+    "eyebrow": "Todellisia kokemuksia ja rehellistä palautetta",
+    "displayTitle": "Mitä asiakkaamme sanovat",
+    "featuredQuote": "Cleavan tiimi ylitti odotukset! Ammattitaitoista, ystävällistä ja huolellista palvelua — lopputulos oli upea.",
+    "contactCta": "Ota yhteyttä",
+    "summaryExcellent": "ERINOMAINEN",
+    "basedOn": "Perustuu {count} arvosteluun",
+    "readMore": "Lue lisää",
+    "readLess": "Näytä vähemmän",
+    "verified": "Vahvistettu Google-arvostelu",
+    "summaryTitle": "Google-arvostelujen yhteenveto",
+    "writeReview": "Kirjoita arvostelu",
+    "histogramCaption": "Tähtijakauma alla näkyvistä arvosteluista",
+    "listingMismatch": "Google näyttää yhteensä {google} arvostelua. Lisää rivejä cleavaReviews.ts-tiedostoon näyttääksesi ne kaikki täällä.",
+    "sortLabel": "Järjestä",
+    "sortRelevant": "Osuvimmat",
+    "sortNewest": "Uusimmat",
+    "sortHighest": "Korkein arvosana",
+    "sortLowest": "Matalin arvosana",
+    "tagAll": "Kaikki",
+    "tagOntime": "ajallaan",
+    "tagPunctual": "täsmällisyys",
+    "tagCleaning": "siivous",
+    "tagResults": "siivoustulos",
+    "tagRegular": "säännöllinen siivous"
+  },
+  "Cta": {
+    "title": "Valmis raikkaaseen lopputulokseen?",
+    "subtitle": "Lähetä tarjouspyyntö — vahvistamme saatavuuden viestillä tai sähköpostilla.",
+    "button": "Aloita tarjouspyyntö"
+  },
+  "Footer": {
+    "rights": "Kaikki oikeudet pidätetään.",
+    "tagline": "Siivouspalvelut Suomessa",
+    "privacy": "Tietosuoja"
+  },
+  "About": {
+    "title": "Meistä",
+    "lead": "Cleava tarjoaa siivouspalveluja, jotka tekevät arjesta kevyempää.",
+    "p1": "Autamme koteja ja yrityksiä pysymään siisteinä ilman stressiä. Kuuntelemme toiveitasi ja rakennamme palvelun, joka sopii juuri sinulle.",
+    "p2": "Läpinäkyvä viestintä, sovitut aikataulut ja ammattimainen ote — siinä Cleavan tapa."
+  },
+  "ServicesPage": {
+    "title": "Palvelut",
+    "intro": "Valitse tarpeisiisi sopiva siivous — yhdistämme palvelut tarvittaessa.",
+    "included": "Sisältää työn, välineet ja laadunvarmistuksen sovitun mukaisesti.",
+    "details": "Lue lisää"
+  },
+  "ServiceDetails": {
+    "backToServices": "Takaisin palveluihin",
+    "includesTitle": "Mitä palvelu sisältää",
+    "ctaTitle": "Tarvitsetko tämän palvelun?",
+    "ctaBody": "Kerro toivottu ajankohta ja kohteen tiedot. Vahvistamme nopeasti.",
+    "ctaButton": "Pyydä tarjous",
+    "home-cleaning": {
+      "title": "Kotisiivous",
+      "subtitle": "Huolellinen ja miellyttävä kotisiivous asuntoihin ja taloihin.",
+      "description": "Sopii kiireiseen arkeen. Keskitymme näkyvään puhtauteen ja yksityiskohtiin keittiössä, kylpyhuoneessa ja oleskelutiloissa.",
+      "includes": [
+        "Keittiön ja kylpyhuoneen pintojen puhdistus",
+        "Pölyjen poisto ja imurointi",
+        "Lattioiden pesu ja viimeistely"
+      ]
+    },
+    "moving-cleaning": {
+      "title": "Muuttosiivous",
+      "subtitle": "Muutto- ja luovutussiivous valmiina tarkastusta varten.",
+      "description": "Ennen avainten luovutusta teemme perusteellisen siivouksen, jotta kohde on raikas seuraavaa asukasta varten.",
+      "includes": [
+        "Keittiön ja kodinkoneiden ulkopintojen tehopuhdistus",
+        "Kylpyhuoneen kalkinpoisto ja desinfiointi",
+        "Kattava lattia- ja pintaviimeistely"
+      ]
+    },
+    "office-cleaning": {
+      "title": "Toimistosiivous",
+      "subtitle": "Ammattimainen toimistosiivous pitää työtilat edustavina.",
+      "description": "Autamme yrityksiä ylläpitämään siistiä ympäristöä henkilöstölle ja asiakkaille luotettavalla sopimussiivouksella.",
+      "includes": [
+        "Työpisteet, yhteiset tilat ja neuvotteluhuoneet",
+        "Keittiö- ja wc-tilojen puhdistus",
+        "Roskien käsittely ja lattiahoito"
+      ]
+    }
+  },
+  "Contact": {
+    "title": "Yhteystiedot",
+    "intro": "Kerro kohteesta ja toiveistasi — palaamme asiaan pian.",
+    "name": "Nimi",
+    "email": "Sähköposti",
+    "phone": "Puhelin",
+    "message": "Viesti",
+    "serviceType": "Palvelutyyppi",
+    "residential": "Kotisiivous",
+    "commercial": "Yrityssiivous",
+    "submit": "Lähetä viesti",
+    "success": "Kiitos! Viestisi on vastaanotettu.",
+    "placeholders": {
+      "name": "Etunimi Sukunimi",
+      "email": "nimi@esimerkki.fi",
+      "phone": "+358 …",
+      "message": "Osoite, koko (m²), toivottu ajankohta…"
+    }
+  }
+}
